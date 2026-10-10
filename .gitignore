@@ -1,0 +1,7 @@
+build/
+/habits.txt
+/habits.csv
+*.exe
+*.tmp
+.vscode/
+.idea/
